@@ -1,4 +1,4 @@
-# 🚀 Personal Developer Portfolio
+#  Personal Developer Portfolio
 
 A modern, responsive, and professional developer portfolio showcasing my projects, skills, and journey as a Computer Science student and aspiring Full-Stack Developer.
 
@@ -10,7 +10,7 @@ A modern, responsive, and professional developer portfolio showcasing my project
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ### 🖥️ Homepage Preview
 ![Homepage](assets/images/homepage.png)
@@ -23,7 +23,7 @@ A modern, responsive, and professional developer portfolio showcasing my project
 
 ---
 
-## 🧠 About This Project
+##  About This Project
 
 This portfolio represents my journey in software development, built to showcase real-world projects and technical skills gained through hands-on experience.
 
@@ -36,26 +36,26 @@ It highlights my work in:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📱 MomentumX
+###  MomentumX
 A production-ready full-stack fitness platform with workout tracking, habit management, nutrition logging, and secure authentication using JWT and REST APIs.
 
-### 🧠 NEBULA OS
+###  NEBULA OS
 A C++ based operating system project implementing core OS concepts such as process scheduling, memory management, and file systems.
 
-### 🚦 AI Smart Traffic Management System
+###  AI Smart Traffic Management System
 An intelligent traffic system using ANN and CSP techniques for priority-based vehicle routing in smart cities.
 
-### 🚌 OmniBus Management System
+###  OmniBus Management System
 A database-driven system for managing bus services including booking, payments, routes, and staff management using Oracle SQL and PL/SQL.
 
-### 🏗️ Stronghold Enhanced
+###  Stronghold Enhanced
 A large-scale C++ strategy game demonstrating advanced OOP, modular architecture, and complex game logic systems.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 - HTML5
@@ -81,18 +81,27 @@ A large-scale C++ strategy game demonstrating advanced OOP, modular architecture
 ## 📂 Project Structure
 
 portfolio/
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── README.md
+
 │── .gitignore
+
 │
 ├── assets/
+
 │ ├── images/
+
 │ │ homepage.png
 │ │ projects.png
 │ │ about.png
 │ │
+
 │ └── resume/
 │ Muhammad_Abdullah_Resume.pdf
 
