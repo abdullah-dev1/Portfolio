@@ -139,9 +139,9 @@ I am continuously improving my skills in:
 
 ## 📬 Contact
 
-- GitHub: https://github.com/your-username
-- Email: your-email@gmail.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/abdullah-dev1
+- Email: devinsightfulabdullah@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abdullah-dev01/
 
 ---
 
