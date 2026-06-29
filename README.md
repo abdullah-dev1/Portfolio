@@ -137,11 +137,19 @@ I am continuously improving my skills in:
 
 ---
 
-## 📬 Contact
+## Contact
 
-- GitHub: https://github.com/abdullah-dev1
-- Email: devinsightfulabdullah@gmail.com
-- LinkedIn: https://www.linkedin.com/in/abdullah-dev01/
+<div align="center">
+
+**Muhammad Abdullah**
+CS Student @ FAST-NUCES Faisalabad, Pakistan
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-dev01)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah-dev1)
+
+</div>
+
+---
 
 ---
 
